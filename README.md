@@ -1,7 +1,6 @@
 # dashboard-climat-togo
 Application de visualisation de données climatiques au Togo. Analyse des tendances par ville et indicateur, réalisée avec Python, Streamlit et Matplotlib.
 
-# Dashboard Climat Togo
 
 Application web interactive permettant de visualiser les données climatiques du Togo.
 
